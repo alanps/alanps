@@ -5,6 +5,7 @@ Uso de metodologia Ágil: Scrum e Kanban, arquitetura MVC, ferramentas de gerenc
 Trabalho com todo processo de um time com Team Leads, Pull Requests e Code Review, Pipeline (criação e modelo de deploy), QA, ambientes de produção e homologação, estimativa de tarefas com planos de ação, planejamento de tarefas diario, semanal e mensal baseado nas estimativas, daily e contato direto com o time por ligações, chat ou WhatsApp, contato com cliente por ligações, chat ou WhatsApp.
 
 Até mais!
+
 www.agenciadreamup.com.br
 
 Curriculum:
