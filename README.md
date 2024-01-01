@@ -5,9 +5,3 @@ Uso de metodologia ágil (Scrum e Kanban), ferramentas de gerenciamento de proje
 Trabalho com todo processo de um time com Team Lead, Pull Request e Code Review, QA, ambientes de produção e homologação, estimativa de tarefas com planos de ação, planejamento de tarefas diario, semanal e mensal baseado nas estimativas, daily e contato direto com o time e clientes por ligações, chat ou WhatsApp.
 
 Até mais!
-
-Portfólio:
-www.agenciadreamup.com.br
-
-Curriculum:
-www.agenciadreamup.com.br/curriculum
