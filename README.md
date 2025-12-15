@@ -31,7 +31,7 @@ chat e WhatsApp.
 
 Até mais!
 
-
+ <BR><BR>
 
 <b>Curriculum</b>: alanpardinisantana.dev.br
 
