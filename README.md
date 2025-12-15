@@ -30,9 +30,7 @@ semanal e mensal baseado nas estimativas, daily e contato direto com o time e cl
 chat e WhatsApp.
 
 Até mais!
-
- <BR><BR>
-
+<BR><BR>
 <b>Curriculum</b>: alanpardinisantana.dev.br<BR>
 <b>GitHub</b> : github.com/alanps<BR>
 <b>LinkedIn</b>: linkedin.com/in/alanpardinisantana
