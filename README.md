@@ -32,6 +32,7 @@ chat e WhatsApp.
 Até mais!
 
 
+
 Curriculum: alanpardinisantana.dev.br
 
 GitHub : github.com/alanps
