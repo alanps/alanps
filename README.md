@@ -7,6 +7,7 @@ WooCommerce (Ecommerce Plugin WordPress), Sage (Starter Theme/Plugin MVC WordPre
 Emerge (Starter Theme/Plugin MVC WordPress), Laravel (PHP), CakePHP (PHP), Symfony (PHP), Node.JS
 (JavaScript) e Express.JS (Node.JS).
 
+
 Uso de metodologia ágil (Scrum e Kanban), ferramentas de gerenciamento de projetos (JIRA, Todoist,
 Trello, Planner e Notion), uso de arquiteturas/design patterns (MVC (Model-View-Controller), 
 OOP (ObjectOriented Programming) e MicroServiços), criação de layout web, mobile e tablet com protótipo navegável
@@ -22,6 +23,7 @@ de desenvolvimento PHP para servidores (DDEV e WordOps), integração contínua 
 Web Services (AWS EC2, RDS, S3, Route 53, SQS, SNS e DynamoDB), Google Cloud (VMs), Azure (VMs),
 Digital Ocean, Cpanel e WHM.
 
+
 Trabalho com todo processo de um time com Team Lead, Pull Request e Code Review, QA, ambientes
 de produção e homologação, estimativa de tarefas com planos de ação, planejamento de tarefas diario,
 semanal e mensal baseado nas estimativas, daily e contato direto com o time e clientes por ligações,
@@ -31,5 +33,7 @@ Até mais!
 
 
 Curriculum: alanpardinisantana.dev.br
+
 GitHub : github.com/alanps
+
 LinkedIn: linkedin.com/in/alanpardinisantana
