@@ -33,8 +33,8 @@ Até mais!
 
 
 
-Curriculum: alanpardinisantana.dev.br
+<b>Curriculum</b>: alanpardinisantana.dev.br
 
-GitHub : github.com/alanps
+<b>GitHub</b> : github.com/alanps
 
-LinkedIn: linkedin.com/in/alanpardinisantana
+<b>LinkedIn</b>: linkedin.com/in/alanpardinisantana
