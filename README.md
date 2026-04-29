@@ -31,6 +31,5 @@ chat e WhatsApp.
 
 Até mais!
 <BR><BR>
-<b>Curriculum</b>: <a href="https://alanpardinisantana.dev.br/" target="_blank">alanpardinisantana.dev.br</a><BR>
-<b>GitHub</b> : <a href="https://github.com/alanps/" target="_blank">github.com/alanps</a><BR>
+<b>Github</b>: <a href="https://github.com/alanps/" target="_blank">github.com/alanps</a><BR>
 <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/alanpardinisantana/" target="_blank">linkedin.com/in/alanpardinisantana</a>
